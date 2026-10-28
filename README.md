@@ -1,6 +1,6 @@
 # Oliver – Profesijný profil
 
-Študent 3. ročníka odboru Informačné a sieťové technológie na SPŠE Hálova 16 v Bratislave (štvrtý ročník od septembra). Hrávam hádzanú, pôsobím ako rozhodca v Slovenskom handballovom zväze a záujem mám o siete, programovanie a tvorbu digitálneho obsahu.
+Študent 4. ročníka odboru Informačné a sieťové technológie na SPŠE Hálova 16 v Bratislave. Hrávam hádzanú, pôsobím ako rozhodca v Slovenskom handballovom zväze a záujem mám o siete, programovanie a tvorbu digitálneho obsahu.
 
 ## Kľúčové zručnosti
 
